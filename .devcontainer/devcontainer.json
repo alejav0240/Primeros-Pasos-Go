@@ -1,0 +1,19 @@
+{
+  "name": "Go Development Container",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "golang",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go",
+        "ms-azuretools.vscode-docker"
+      ],
+      "settings": {
+        "go.useLanguageServer": true,
+        "go.formatTool": "gofmt"
+      }
+    }
+  },
+  "postCreateCommand": "go mod init ejemplo || true"
+}
