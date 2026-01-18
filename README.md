@@ -26,7 +26,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu máquina local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/Primeros-Pasos-Go.git # Reemplaza con la URL real de tu repo
+git clone https://github.com/alejav0240/Primeros-Pasos-Go.git # Reemplaza con la URL real de tu repo
 cd Primeros-Pasos-Go
 ```
 
