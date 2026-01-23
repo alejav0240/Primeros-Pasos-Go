@@ -4,6 +4,8 @@
 
 Este repositorio es una introducción a **GoLang**, diseñado para mostrar su funcionamiento a través de ejemplos prácticos y claros. 💡 Se encuentra en desarrollo activo y hace uso de **Dev Containers** y **Docker** para proporcionar un entorno de desarrollo consistente y fácil de configurar.
 
+![home preview](./images/home.png)
+
 ## ✨ Características Principales
 
 *   **Ejemplos claros y detallados:** Demostraciones de los conceptos fundamentales de Go, desde variables hasta estructuras de control, organizados modularmente.
